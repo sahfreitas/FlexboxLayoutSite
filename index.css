@@ -22,7 +22,7 @@ header a {
     font-weight: bold;
 }
 main {
-    background-image: url(images/img_9.jpg);
+    background-image: url(../images/img_9.jpg);
     width: 87%;
     color: aliceblue;
     background-size: 100%;
